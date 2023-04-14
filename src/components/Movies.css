@@ -1,0 +1,13 @@
+.movie-box1{
+    display:flex ;
+    justify-content: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem
+}
+.movie-box2{
+    display:flex ;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
